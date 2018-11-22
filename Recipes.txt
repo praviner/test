@@ -12,4 +12,7 @@ Bonda
 Pizza
 Burger
 
+Samosa
+Puri
+
 Thank You
